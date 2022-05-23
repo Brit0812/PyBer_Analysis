@@ -17,6 +17,9 @@ Urban cities are expected to have the highest yield, as it’s the area with a h
 
 ![](analysis/Pyber_summary.png)
 * figure 2
+* 
+ ![](analysis/Fig1.png)
+* figure 3: This image shows the number of rides vs the average fare (USD $) per ride.
 
 ## Conclusion Summary: 
 * Urban areas have the highest financial yield.
@@ -33,8 +36,7 @@ Below are a couple recommendations to address disparities among the city types:
 
 *	Rural areas have a sever gap in drivers and rides compared to the other city types, it may prove to be beneficial to invest in advertisements to promote the usage of the platform (across all city types).
 
-* The quarterly yield of the rural areas isn’t even in competition with the yields of either suburban or urban areas. If rural areas were to be on par with at least suburban areas, which has a decent financial yield for a smaller population would be about 185 drivers per ride and about 274 rides.
-
+* The quarterly yield of the rural areas isn’t even in competition with the yields of either suburban or urban areas. If rural areas were to be on par with at least suburban areas, which has a decent financial yield for a smaller population would be about 185 drivers per ride and about 274 rides. 
 ![](analysis/Fig1.png)
-* Figure 3
+* Figure 3: This image shows the number of rides vs the average fare (USD $) per ride.
 
