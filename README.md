@@ -18,8 +18,8 @@ Insert image
 (statement= fig 2)
 
 ## Conclusion Summary: 
-•	Urban areas have the highest financial yield.
-•	The price per ride is less in Urban areas then the other areas as the total rides and drivers is higher, thus the cost per ride is less (supply and demand). This also has an impact on the average fare per driver, the urban drivers earn significantly less than the drivers in other areas.
-•	Those who live in rural areas have a higher fare per ride, as there are a smaller number of drivers available compared to that of the urban areas (supply and demand).
-•	
+*Urban areas have the highest financial yield.
+*The price per ride is less in Urban areas then the other areas as the total rides and drivers is higher, thus the cost per ride is less (supply and demand). This also has an impact on the average fare per driver, the urban drivers earn significantly less than the drivers in other areas.
+*Those who live in rural areas have a higher fare per ride, as there are a smaller number of drivers available compared to that of the urban areas (supply and demand).
+
 ## Summary:
