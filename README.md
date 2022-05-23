@@ -17,7 +17,7 @@ Urban cities are expected to have the highest yield, as it’s the area with a h
 
 ![](analysis/Pyber_summary.png)
 * figure 2
-* 
+
  ![](analysis/Fig1.png)
 * figure 3: This image shows the number of rides vs the average fare (USD $) per ride.
 
