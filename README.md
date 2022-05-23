@@ -34,6 +34,6 @@ Below are a couple recommendations to address disparities among the city types:
 
 * The data provided is fairly limited, as Its from January 2019 to April 2019. If the rest of the year would have been provided, an analysis of their yearly and seasonal statistics could have been understood. Does the price vary across different seasons? Does Weather impact the price? Do Certain holidays increase of decrease the price? Having the yearly data would provide extra incite. 
 
-*	Rural areas have a sever gap in drivers and rides compared to the other city types, it may prove to be beneficial to invest in advertisements to promote the usage of the platform (across all city types).
+*	Rural areas have a severe gap in drivers and rides compared to the other city types, it may prove to be beneficial to invest in advertisements to promote the usage of the platform (across all city types).
 
 * The quarterly yield of the rural areas isn’t even in competition with the yields of either suburban or urban areas. If rural areas were to be on par with at least suburban areas, which has a decent financial yield for a smaller population would be about 185 drivers per ride and about 274 rides. 
